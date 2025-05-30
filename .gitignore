@@ -1,0 +1,11 @@
+.gitignore
+.DS_Store
+.vscode
+*.sh
+*.bak
+.*
+*.config*
+config\
+.sfdx
+*.json
+readme.md
